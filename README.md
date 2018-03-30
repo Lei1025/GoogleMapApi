@@ -4,6 +4,7 @@ A simple flyover application that explores some of my favorite spots in Toronto 
 ## Skills Used
 
 Developed with Google Map API to locate and relocate place and indicate information
+
 Implemented CATransaction to control camera zoom animations
 
 ## Screenshot
